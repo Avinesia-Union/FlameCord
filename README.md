@@ -1,5 +1,5 @@
 FlameCord
-=======
+========
 
 FlameCord is a patch for Waterfall to fix possible exploits and add useful functionalities. Waterfall is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
 
