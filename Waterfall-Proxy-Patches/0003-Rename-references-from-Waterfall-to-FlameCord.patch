@@ -48,7 +48,7 @@ index 07d74c67..a4b58d9c 100644
      public String getName()
      {
 -        return "Waterfall";
-+        return "MalinaProxy";
++        return "MalinaProxy2";
      }
  
      @Override
